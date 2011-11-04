@@ -1,0 +1,13 @@
+<Configuration>
+  <CoverageFilters>
+    <IncludeFilters>
+      <Filter ModuleMask="*" ClassMask="*" FunctionMask="*" />
+    </IncludeFilters>
+    <ExcludeFilters>
+      <Filter ModuleMask="*Tests*" ClassMask="*" FunctionMask="*" />
+    </ExcludeFilters>
+  </CoverageFilters>
+  <SnapshotDialog>
+    <InitialDirectory>C:\source\research\TelnetMock</InitialDirectory>
+  </SnapshotDialog>
+</Configuration>
